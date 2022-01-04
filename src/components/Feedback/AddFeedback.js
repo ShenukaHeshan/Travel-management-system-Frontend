@@ -86,7 +86,7 @@ const AddFeedback = () => {
 
             <div className="mb-3">
               <label for="Textarea1" className="form-label">
-                Example textarea
+              FeedBack
               </label>
 
               <textarea
